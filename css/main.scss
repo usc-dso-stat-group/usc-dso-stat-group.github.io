@@ -85,3 +85,19 @@ a:hover{
   line-height: 1.55;
   color: var(--text);
 }
+
+/* Space below fixed navbar */
+.home-card {
+  margin-top: 24px;
+}
+
+/* Ensure heading doesn't add extra space */
+.home-card h1 {
+  margin-top: 0;
+}
+
+/* Align News card with Home card */
+.news-card {
+  margin-top: 24px;
+}
+
