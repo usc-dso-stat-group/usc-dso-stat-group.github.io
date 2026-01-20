@@ -143,3 +143,13 @@ body.dark #newsid > .section-card {
 a:hover {
   text-decoration: underline;
 }
+
+.navbar {
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: -0.2px;
+}
+
