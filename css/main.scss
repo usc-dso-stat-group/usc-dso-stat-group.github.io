@@ -96,30 +96,27 @@ firstp {
    Does NOT touch image sizing/cropping/orientation
 --------------------------- */
 
-/* Slightly richer headings */
 h1, h2, h3 {
   letter-spacing: -0.2px;
 }
 
-/* Make the navbar feel a bit crisper without changing layout */
 .navbar {
   border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 
-/* Subtle “card” feel ONLY for the home + news columns (no impact elsewhere) */
+/* Subtle card feel ONLY for the home + news columns (no impact elsewhere) */
 #homeid, #newsid {
-  margin-top: 18px; /* space below fixed top bar */
+  margin-top: 18px;
 }
 
 #homeid {
-  padding-top: 0; /* avoid double spacing */
+  padding-top: 0;
 }
 
 #homeid h1 {
   margin-top: 0;
 }
 
-/* Add a gentle background + border to content blocks without changing their internal layout */
 #homeid > .section-card,
 #newsid > .section-card {
   background: rgba(255,255,255,0.92);
@@ -129,7 +126,6 @@ h1, h2, h3 {
   box-shadow: 0 8px 18px rgba(0,0,0,0.06);
 }
 
-/* Dark mode compatibility if your site toggles a dark class */
 html[data-theme="dark"] #homeid > .section-card,
 html[data-theme="dark"] #newsid > .section-card,
 body.dark #homeid > .section-card,
@@ -139,14 +135,11 @@ body.dark #newsid > .section-card {
   box-shadow: 0 8px 18px rgba(0,0,0,0.20);
 }
 
-/* News bullets spacing (only affects news list) */
 .news-list li {
   margin-bottom: 0.45rem;
   line-height: 1.5;
 }
 
-/* Links: slightly nicer hover, NO underlines/borders that shift layout */
 a:hover {
   text-decoration: underline;
 }
-
