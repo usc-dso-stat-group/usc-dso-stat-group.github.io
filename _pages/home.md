@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-We are a dynamic research group at the [USC Marshall Business School](https://www.marshall.usc.edu/). The statistics group consists of 19 full-time faculty. The group's main research interests span the frontiers of modern theoretical and applied statistical methodology in large-scale, high-dimensional, and complex data settings. The prominent directions include statistical machine learning and inference, optimization, personal decision-making, causal inference, theoretical understanding and uncertainty quantification of deep learning, privacy learning, graphical models, functional data analysis, statistical networks analysis, predictive inference and shrinkage methodology, conformal inference, and applications in economics, financial econometrics, marketing, finance, and other business disciplines.
+We are a dynamic research group at the [USC Marshall Business School](https://www.marshall.usc.edu/). The statistics group consists of 20 full-time faculty. The group's main research interests span the frontiers of modern theoretical and applied statistical methodology in large-scale, high-dimensional, and complex data settings. The prominent directions include statistical machine learning and inference, optimization, personal decision-making, causal inference, theoretical understanding and uncertainty quantification of deep learning, privacy learning, graphical models, functional data analysis, statistical networks analysis, predictive inference and shrinkage methodology, conformal inference, and applications in economics, financial econometrics, marketing, finance, and other business disciplines.
  
 
 
@@ -22,14 +22,20 @@ We are a dynamic research group at the [USC Marshall Business School](https://ww
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DSO_Summer_Scholars_2026.jpg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SEEDS_2026.jpg" alt="Slide 2" />
+        </div>
          <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/reading_group.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/reading_group.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phd_group_pic.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phd_group_pic.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dso_wall.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dso_wall.jpg" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
