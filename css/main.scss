@@ -173,3 +173,60 @@ a:hover {
   letter-spacing: -0.2px;
 }
 
+/* ============================
+   MINIMAL NAVBAR – ACTIVE PAGE ONLY
+   ============================ */
+
+/* Navbar container */
+.navbar {
+  background-color: #ffffff;
+  border-bottom: 1px solid rgba(0,0,0,0.12);
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+/* Brand: quiet */
+.navbar-brand {
+  color: #222 !important;
+  font-weight: 400;
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+/* Normal nav links: plain text */
+.navbar-nav > li > a {
+  padding: 6px 10px;
+  color: #333 !important;
+  font-weight: 400;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  transition: color 0.15s ease;
+}
+
+/* Hover: text emphasis only */
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus {
+  color: #990000 !important;
+  text-decoration: none;
+}
+
+/* Active page: subtle box */
+.navbar-nav > .active > a,
+.navbar-nav > .active > a:hover {
+  padding: 6px 12px;
+  background-color: rgba(153, 0, 0, 0.08);
+  border: 1px solid rgba(153, 0, 0, 0.45);
+  border-radius: 6px;
+  color: #990000 !important;
+  font-weight: 600;
+}
+
+/* Mobile spacing */
+@media (max-width: 768px) {
+  .navbar-nav > li > a {
+    margin-bottom: 4px;
+  }
+}
+
+
