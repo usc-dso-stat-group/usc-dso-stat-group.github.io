@@ -1,3 +1,10 @@
+- name: Louis Christie
+  photo: Christie_postdoc.jpg
+  info: Postdoc (Advisor - Jacob Bien) ([View Profile](https://www.linkedin.com/in/louis-christie-91401417b/?originalSubdomain=uk))
+  email: lgchrist@usc.edu
+  number_educ: 1
+  education1: Ph.D. University of Cambridge
+  
 - name: Wenqin Du
   photo: Du_postdoc.jpg
   info: Postdoc (Advisor - Yingying Fan and Jinchi Lv) ([View Profile](https://wenqindu.github.io/portfolio/))
