@@ -24,31 +24,27 @@ We are a dynamic research group at the [USC Marshall Business School](https://ww
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DSO_Summer_Scholars_2026.jpg" alt="Slide 1" />
-        </div>
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SEEDS_2026.jpg" alt="Slide 2" />
-        </div>
-         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/reading_group.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phd_group_pic.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dso_wall.jpg" alt="Slide 5" />
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+  <div class="item active">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DSO_Summer_Scholars_2026.jpg" alt="Slide 1" />
+  </div>
+
+  <div class="item">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SEEDS_2026.jpg" alt="Slide 2" />
+  </div>
+
+  <div class="item">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/reading_group.jpg" alt="Slide 3" />
+  </div>
+
+  <div class="item">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phd_group_pic.jpg" alt="Slide 4" />
+  </div>
+
+  <div class="item">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dso_wall.jpg" alt="Slide 5" />
+  </div>
 </div>
+
 
 
 
