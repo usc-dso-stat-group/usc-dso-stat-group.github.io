@@ -22,11 +22,8 @@ permalink: /seminars/
 | February 13, 2026  | Ashesh Rambachan              | MIT                     |
 | February 27, 2026  | Sabyasachi Chatterjee              | University of Illinois-Urbana Champagne                              |
 | March 27, 2026 | Florentina Bunea          | Cornell University (Cancelled)                             |
-| January 17, 2025  | Moulinath Banerjee      | University of Michigan                    |
-| March 7, 2025     | Ali Shojaie             | University of Washington                  |
-| March 14, 2025    | Tirthankar Dasgupta     | Rutgers University                        |
-| March 28, 2025    | Kevin Jamieson          | University of Washington                  |
-| April 11, 2025    | Claire Donnat           | University of Chicago                     |
+| April 10, 2026  | Bani Mallick      | Texas A&M University                    |
+| April 17, 2026     | Arthur Gretton              | University College London                  |
 {:.table-striped}
 
 
