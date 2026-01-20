@@ -1,11 +1,15 @@
-
 <div class="well">
-<h4>News</h4>
+  <h4>News</h4>
 
-{% for article in site.data.news limit:6 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
-{% endfor %}
+  <ul class="news-list">
+    {% for article in site.data.news limit:6 %}
+      <li>
+        {{ article.headline | markdownify | remove: '<p>' | remove: '</p>' }}
+      </li>
+    {% endfor %}
+  </ul>
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
-
-    </div>
+  <h4>
+    <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">… see all News</a>
+  </h4>
+</div>
