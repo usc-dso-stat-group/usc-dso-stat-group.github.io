@@ -8,7 +8,7 @@ permalink: /seminars/
 
 # Events
 
-## Statistics Seminars 2026-2026
+## Statistics Seminars 2025-2026
 
 **Contact**: Paromita Dubey (paromita@marshall.usc.edu), Zijun Gao (zijungao@marshall.usc.edu), Dennis Shen (shendenn@marshall.usc.edu), Waverly Wei (waverly@marshall.usc.edu) and Kabir Verchand (verchand@marshall.usc.edu).
 
@@ -19,9 +19,9 @@ permalink: /seminars/
 | October 24, 2025  | Sifan Liu               | Duke University |
 | November 7, 2025  | Nic Dalmasso  | JP Morgan (Rescheduled)                 |
 | November 21, 2025  | Jason Klusowski | Princeton University                 |
-| November 4, 2024  | Linbo Wang              | University of Toronto                     |
-| November 8, 2024  | George Lan              | Georgia Tech                              |
-| November 22, 2024 | Robert Gramacy          | Virginia Tech                             |
+| February 13, 2026  | Ashesh Rambachan              | MIT                     |
+| February 27, 2026  | Sabyasachi Chatterjee              | University of Illinois-Urbana Champagne                              |
+| March 27, 2026 | Florentina Bunea          | Cornell University (Cancelled)                             |
 | January 17, 2025  | Moulinath Banerjee      | University of Michigan                    |
 | March 7, 2025     | Ali Shojaie             | University of Washington                  |
 | March 14, 2025    | Tirthankar Dasgupta     | Rutgers University                        |
