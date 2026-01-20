@@ -3,10 +3,14 @@ layout: default
 ---
 
   <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the Stat Group Webpage!</h1>
+  <div class="section-card">
+    <h1>Welcome to the Stat Group Webpage!</h1>
+    {{ content }}
+  </div>
+</div>
 
-	{{ content }}
+<div id="newsid" class="col-sm-4">
+  <div class="section-card">
+    {% include news.html %}
   </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
-  </div>
+</div>
