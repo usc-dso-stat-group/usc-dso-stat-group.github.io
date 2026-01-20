@@ -1,7 +1,14 @@
-- name: Oh-Ran Kwon
-  photo: Kwon_postdoc.jpg
-  info: Postdoc (Advisor - Jacob Bien) ([View Profile](https://www.ohrankwon.com/home))
-  email: ohrankwo@marshall.usc.edu@marshall.usc.edu
+- name: Wenqin Du
+  photo: Du_postdoc.jpg
+  info: Postdoc (Advisor - Yingying Fan and Jinchi Lv) ([View Profile](https://wenqindu.github.io/portfolio/))
+  email: wenqindu@marshall.usc.edu
   number_educ: 1
-  education1: Ph.D. University of Minnesota
+  education1: Ph.D. Colorado State University
+  
+- name: Ao Sun
+  photo: Sun_postdoc.jpg
+  info: Postdoc (Advisor - Yingying Fan, Jinchi Lv and Paromita Dubey) ([View Profile](https://ao-sun.github.io/))
+  email: ao.sun@marshall.usc.edu
+  number_educ: 1
+  education1: Ph.D. Xiamen University
   
