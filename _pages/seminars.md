@@ -20,10 +20,10 @@ permalink: /seminars/
 | November 7, 2025  | Nic Dalmasso  | JP Morgan (Rescheduled)                 |
 | November 21, 2025  | Jason Klusowski | Princeton University                 |
 | February 13, 2026  | Ashesh Rambachan              | MIT                     |
-| February 27, 2026  | Sabyasachi Chatterjee              | University of Illinois-Urbana Champagne                              |
-| March 27, 2026 | Florentina Bunea          | Cornell University (Cancelled)                             |
+| March 27, 2026 | Arash A. Amini          | UCLA                             |
 | April 10, 2026  | Bani Mallick      | Texas A&M University                    |
-| April 17, 2026     | Arthur Gretton              | University College London                  |
+| April 13, 2026 (Monday)     | Arthur Gretton              | University College London                  |
+| April 24, 2026  | Sabyasachi Chatterjee              | University of Illinois-Urbana Champagne                              |
 {:.table-striped}
 
 
