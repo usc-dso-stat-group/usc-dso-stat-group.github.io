@@ -20,7 +20,7 @@ permalink: /seminars/
 | November 21, 2025  | Jason Klusowski | Princeton University                 |
 | February 13, 2026  | Ashesh Rambachan              | MIT                     |
 | March 13, 2026  | Joshua Cape              | University of Wisconsin-Madison                     |
-| March 27, 2026 | Arash A. Amini          | UCLA                             |
+| April 3, 2026 | Arash A. Amini          | UCLA                             |
 | April 10, 2026  | Bani Mallick      | Texas A&M University                    |
 | April 13, 2026 (Monday)     | Arthur Gretton              | University College London                  |
 | April 17, 2025  | Nic Dalmasso  | JP Morgan                 |
