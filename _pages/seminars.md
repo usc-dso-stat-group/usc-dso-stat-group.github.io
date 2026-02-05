@@ -17,12 +17,13 @@ permalink: /seminars/
 |-------------------|-------------------------|-------------------------------------------|
 | October 3, 2025   | Hongzhe Lee            | University of Pennsylvania           |
 | October 24, 2025  | Sifan Liu               | Duke University |
-| November 7, 2025  | Nic Dalmasso  | JP Morgan (Rescheduled)                 |
 | November 21, 2025  | Jason Klusowski | Princeton University                 |
 | February 13, 2026  | Ashesh Rambachan              | MIT                     |
+| March 13, 2026  | Joshua Cape              | University of Wisconsin-Madison                     |
 | March 27, 2026 | Arash A. Amini          | UCLA                             |
 | April 10, 2026  | Bani Mallick      | Texas A&M University                    |
 | April 13, 2026 (Monday)     | Arthur Gretton              | University College London                  |
+| April 17, 2025  | Nic Dalmasso  | JP Morgan                 |
 | April 24, 2026  | Sabyasachi Chatterjee              | University of Illinois-Urbana Champagne                              |
 {:.table-striped}
 
