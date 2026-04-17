@@ -23,7 +23,7 @@ permalink: /seminars/
 | March 30, 2026 (Monday, Special Seminar)  | Debashis Paul              | Indian Statistical Institute, Kolkata & UC Davis                     |
 | April 3, 2026 | Arash A. Amini          | UCLA                             |
 | April 10, 2026  | Bani Mallick      | Texas A&M University                    |
-| April 13, 2026 (Monday)     | Arthur Gretton              | University College London                  |
+| April 13, 2026 (postponed to Fall 2026)     | Arthur Gretton              | University College London                  |
 | April 17, 2025  | Nic Dalmasso  | JP Morgan                 |
 | April 24, 2026  | Sabyasachi Chatterjee              | University of Illinois-Urbana Champagne                              |
 {:.table-striped}
